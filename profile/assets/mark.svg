@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="232 232 544 544">
+  <title>GaiaDesk</title>
+  <defs><clipPath id="mur" clipPathUnits="userSpaceOnUse"><path d="M -2000 -2000 L 4000 -2000 L 4000 4000 Z"/></clipPath></defs>
+  <path d="M 256 256 L 590.4 336.9 A 210 210 0 1 1 336.9 590.4 Z" fill="#2C4FEE" stroke="#2C4FEE" stroke-width="20" stroke-linejoin="round"/><g clip-path="url(#mur)"><path d="M 256 256 L 590.4 336.9 A 210 210 0 1 1 336.9 590.4 Z" fill="#22B87E" stroke="#22B87E" stroke-width="20" stroke-linejoin="round"/></g>
+</svg>

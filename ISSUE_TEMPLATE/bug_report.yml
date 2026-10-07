@@ -1,0 +1,49 @@
+name: Bug report
+description: Something in the SDK or MCP server doesn't work as documented.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! **Remove tokens, passwords, access codes and desk IDs** from anything you paste.
+        Problems with the GaiaDesk app itself go to support@gaiadesk.net.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: The smallest code or config that shows the problem.
+      render: text
+    validations:
+      required: true
+  - type: input
+    id: sdk-version
+    attributes:
+      label: Package and version
+      placeholder: "@gaiadesk/sdk 0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: cli-version
+    attributes:
+      label: gaiadesk-cli --version
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: OS and runtime
+      placeholder: "macOS 15.5, Node 22.4 (or Python 3.12, or MCP client and version)"
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error output or logs
+      render: text

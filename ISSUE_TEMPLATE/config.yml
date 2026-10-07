@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Problem with the GaiaDesk app
+    url: mailto:support@gaiadesk.net
+    about: The apps are closed source. Email support with your platform and app version.
+  - name: Report a security vulnerability
+    url: mailto:security@gaiadesk.net
+    about: Please report security problems privately, never in a public issue.
+  - name: Download GaiaDesk
+    url: https://gaiadesk.net/download
+    about: Get the apps for Mac, Windows, Linux, iOS and Android.
