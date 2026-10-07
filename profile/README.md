@@ -10,7 +10,7 @@
 <h3 align="center">Any computer. Right here.</h3>
 
 <p align="center">
-  Fast, secure remote desktop for Mac, Windows, Linux, iOS and Android,<br>
+  Fast, secure remote desktop for Mac, Windows and Linux,<br>
   with a terminal, file transfer and an API built for people <em>and</em> AI agents.
 </p>
 
@@ -28,7 +28,7 @@
 ### What GaiaDesk does
 
 - **Remote desktop that feels local.** Hardware HEVC over QUIC, forward error correction and adaptive bitrate keep the picture sharp and the input instant, even on rough Wi-Fi.
-- **Reachable when you need it.** Unattended access survives reboots, sign-outs and updates, and sleeping PCs are woken on demand.
+- **Reachable when you need it.** Unattended access survives reboots, sign-outs and updates.
 - **More than a screen.** Terminal, file transfer, chat, clipboard, port forwarding and background jobs, on every platform.
 - **Works without our servers.** LAN sessions run with no internet at all, and Mesh links your machines into a private network.
 - **Built for teams.** SSO, roles, audit logs, enterprise provisioning and branded clients.
