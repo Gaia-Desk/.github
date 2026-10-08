@@ -40,6 +40,7 @@
 | [**gaiadesk-mcp**](https://github.com/Gaia-Desk/gaiadesk-mcp) | MCP server: let Claude, Cursor, VS Code and other AI agents run commands, move files and use the screen on your computers | `npx -y @gaiadesk/mcp` |
 | [**gaiadesk-typescript**](https://github.com/Gaia-Desk/gaiadesk-typescript) | TypeScript SDK for Node.js | `npm install @gaiadesk/sdk` |
 | [**gaiadesk-python**](https://github.com/Gaia-Desk/gaiadesk-python) | Python SDK, sync and asyncio | `pip install gaiadesk` |
+| [**gaiadesk-cli**](https://github.com/Gaia-Desk/gaiadesk-cli) | The `gaiadesk` command line for scripts, CI and AI agents | `npm i -g @gaiadesk/cli` · `brew install gaia-desk/tap/gaiadesk` |
 | [**gaiadesk-releases**](https://github.com/Gaia-Desk/gaiadesk-releases) | Signed builds of the GaiaDesk apps for every platform | [Download](https://gaiadesk.net/download) |
 
 ```ts
